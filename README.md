@@ -72,7 +72,9 @@ Entre os exemplos de funções criadas nos projetos práticos está o trecho a s
 Nas sessões práticas utilizamos o Colab, o VS Code, o portal do Azure e o Document Intelligence Studio, além de bibliotecas como Streamlit e a LangChain da OpenAI.
 
  **Clique nos links abaixo para ver mais detalhes sobre cada um deles:**     
-🔗 Desafio 1: Criar um tradutor de artigos técnicos com AzureAI      
+🔗 <a href="https://github.com/michelle-lira/dio-bootcamp-microsoft-certification-challenge-ai-102/blob/main/lab-01-tradutor-de-artigos-tecnicos-usando-azure-ai/README.md" target="_blank">Desafio 1: Criar um tradutor de artigos técnicos com AzureAI</a>
+ 
+      
 🔗 Desafio 2: Desenvolver uma interface para realização de análise de documentos anti-fraude com AzureAI      
 
 E se você também praticou neste bootcamp, sucesso na prova de certificação!
