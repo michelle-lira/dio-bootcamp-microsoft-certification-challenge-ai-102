@@ -60,4 +60,24 @@ Neste bootcamp foram abordados os tópicos necessários para a realização do e
 
 
 ### 🗒️Simulado Preparatório o Exame AI-102
+* Tivemos acesso a um portal para praticar questões da prova com os simulados.
+
+
+## Desafios de Projetos
+Neste bootcamp realizamos 2 desafios de projetos e alguns Hands On, que são práticas também dentro do Azure Studio.        
+Entre os exemplos de funções criadas nos projetos práticos está o trecho a seguir:    
+
+![](https://github.com/michelle-lira/dio-bootcamp-microsoft-certification-challenge-ai-102/blob/main/images/code-snap-app.png)
+
+Nas sessões práticas utilizamos o Colab, o VS Code, o portal do Azure e o Document Intelligence Studio, além de bibliotecas como Streamlit e a LangChain da OpenAI.
+
+🔗 **Clique nos links abaixo para ver mais detalhes sobre cada um deles:**
+
+Readme do Desafio 1: Criar um tradutor de artigos técnicos com AzureAI     
+Readme do Desafio 2: Desenvolver uma interface para realização de análise de documentos anti-fraude com AzureAI
+
+E se você também praticou neste bootcamp, sucesso na prova de certificação!
+
+
+
 
